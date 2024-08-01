@@ -12,6 +12,10 @@ author:
     fullname: Kazuho Oku
     organization: Fastly
     email: kazuhooku@gmail.com
+-
+    fullname: Tommy Pauly
+    organization: Apple
+    email: tpauly@apple.com
 
 normative:
 
